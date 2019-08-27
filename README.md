@@ -1,8 +1,6 @@
-## ANALYSIS OF FACTOR AFFECTING HOME LOAN APPROVAL
+## ANALYSIS OF FACTORS AFFECTING HOME LOAN APPROVAL
 
 ### Brief Summary on the Topic:
-
-#### GENERAL POPULATION TABLES
 
 ■ This set of tabulation relates to basic population and is based on full count. 
 
